@@ -2,4 +2,4 @@
 ## Pealkiri 2
 ### Pealkiri 3
 
-*_Minu nimi on Anna*
+*Minu nimi on Anna*
